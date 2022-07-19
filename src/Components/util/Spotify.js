@@ -1,9 +1,5 @@
 const clientId = 'b86844df5ab34078b4437d1ba2c9adf1'
-<<<<<<< HEAD
 const redirectUri = 'https://jammming-jonash.surge.sh/'
-=======
-const redirectUri = 'https://jammming-jonas.surge.sh/'
->>>>>>> d39a427800c67545f55940ff25368ec397cd1b6d
 let accessToken;
 
 export const Spotify = {
