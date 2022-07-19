@@ -51,6 +51,7 @@ export class App extends React.Component {
         playlistTracks: []
       })
     })
+    alert('Playlist salva com sucesso!')
   }
 
   search(term) {

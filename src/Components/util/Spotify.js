@@ -1,5 +1,5 @@
 const clientId = 'b86844df5ab34078b4437d1ba2c9adf1'
-const redirectUri = 'http://localhost:3000'
+const redirectUri = 'https://jammming-jonas.surge.sh/'
 let accessToken;
 
 export const Spotify = {
@@ -72,6 +72,5 @@ export const Spotify = {
                 })
             })
         })
-       
       }
 }
